@@ -196,3 +196,15 @@ ll
 sudo su
 pwd
 sudo su
+sudo yum install git
+git --version
+git init
+git config --global user.name
+git config --global user.name "reddy"
+ll
+ssh-keygen
+touch redd
+vi redd
+add .
+git add .
+git commit -m "added redd"
