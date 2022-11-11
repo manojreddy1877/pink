@@ -208,3 +208,15 @@ vi redd
 add .
 git add .
 git commit -m "added redd"
+git config --list
+git@github.com:manojreddy1877/pink.git
+git add.
+git add .
+git status
+touch mani 
+git add .
+gut status
+git status
+git commit -m "added a file mani"
+git push -u origin master
+sudo su
